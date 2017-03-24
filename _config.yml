@@ -46,6 +46,7 @@ highlight:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  开发工具: DeveloperTools
 tag_map:
 
 # Date / Time format
