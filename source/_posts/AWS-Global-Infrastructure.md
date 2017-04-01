@@ -31,6 +31,8 @@ Availability Zone 简称 "AZ"，由一个或者多个分散的数据中心组成
 ### 问题
 一个用户选择的 us-east-1a 与另一个用户选择的 us-east-1a 一定是同一个 AZ 吗？
  
+---
+ 
 *参考*
 *https://aws.amazon.com/cn/about-aws/global-infrastructure/?nc2=h_l2_cc*
 *https://aws.amazon.com/cn/about-aws/global-infrastructure/regional-product-services/*
